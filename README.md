@@ -21,5 +21,5 @@ Your landing page has a form element with a corresponding `id="form"`
 14. Your product landing page should utilize CSS flexbox at least once
 15. Fulfill the user stories and pass all the tests below to complete this project. 
 
-**Note**: Be sure to add `<link rel="stylesheet" href="styles.css">`` in your HTML to link your stylesheet and apply your CSS
+**Note**: Be sure to add `<link rel="stylesheet" href="styles.css">` in your HTML to link your stylesheet and apply your CSS
 
